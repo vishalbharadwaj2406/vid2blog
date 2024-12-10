@@ -1039,6 +1039,7 @@ Stay tuned for more insights into transformer architectures and their applicatio
 In this tutorial, we navigate the complex world of neural network-based language models, specifically focusing on their structural components and the procedural steps involved in their training and deployment. Our journey begins by understanding how these models condition text generation on input data, using the translation of a French sentence into English with a Transformer-based model as an illustrative example.
 
 ### The Framework: Encoder-Decoder Architecture
+![][./backend/frame_5577.jpg]
 
 The architecture of the Transformer model we use for translation consists of two main components: the encoder and the decoder.
 
